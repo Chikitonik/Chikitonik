@@ -1,5 +1,7 @@
 ### Hi I'm Roman Kholodkov 👋
 - 🌱 I’m currently learning https://practicum.yandex.com/data-scientist/
+- 📫 How to reach me: please visit my [About Me](https://Chikitonik.github.io/) page or [email me](mailto:chikitonik@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
 <!--
 **Chikitonik/Chikitonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
