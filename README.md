@@ -1,5 +1,5 @@
 ### Hi I'm Roman Kholodkov 👋
-- 🌱 I’m currently learning https://practicum.yandex.com/data-scientist/
+- 🌱 I’ve complited https://practicum.yandex.com/data-scientist/
 - 📫 How to reach me: please visit my [About Me](https://Chikitonik.github.io/) page or mail me to chikitonik@gmail.com
 
 <!--
