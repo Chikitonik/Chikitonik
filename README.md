@@ -3,8 +3,7 @@
 - 🌱 I’ve complited https://practicum.yandex.com/data-scientist/
 - 📫 How to reach me: please visit my [About Me](https://Chikitonik.github.io/) page or mail me to chikitonik@gmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikitonik&theme=dracula" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikitonik&layout=compact" />
 <!--
 **Chikitonik/Chikitonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
