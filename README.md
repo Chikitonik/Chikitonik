@@ -1,4 +1,4 @@
-### Hi I'm Roman Kholodkov, SAP specialist and full-stack web developer  👋
+### Hi I'm Roman Kholodkov, SAP specialist 👋
 - 📫 How to reach me: please visit my [About Me](https://Chikitonik.github.io/) page or mail me to chikitonik@gmail.com
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikitonik&layout=compact" />
